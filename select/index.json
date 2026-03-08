@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "School Boy",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T10:32:38.835425Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Public School Boy",
+      "artist": "Bis",
+      "has_synced": false,
+      "path": "select/01_Public_School_Boy_Bis.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "School Boy Crush",
+      "artist": "Average White Band",
+      "has_synced": false,
+      "path": "select/02_School_Boy_Crush_Average_White_Band.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "School Boy Crush",
+      "artist": "Average White Band",
+      "has_synced": true,
+      "path": "select/03_School_Boy_Crush_Average_White_Band.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "School Boy Heart",
+      "artist": "Jimmy Buffett",
+      "has_synced": true,
+      "path": "select/04_School_Boy_Heart_Jimmy_Buffett.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "School Boy",
+      "artist": "Grouplove",
+      "has_synced": true,
+      "path": "select/05_School_Boy_Grouplove.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Far From Here (ft. School Boy Q)",
+      "artist": "Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/06_Far_From_Here_(ft._School_Boy_Q)_Kendrick_Lamar.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "School Boy",
+      "artist": "Big Mama Thornton",
+      "has_synced": true,
+      "path": "select/07_School_Boy_Big_Mama_Thornton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "School Boy Crush",
+      "artist": "AWB",
+      "has_synced": true,
+      "path": "select/08_School_Boy_Crush_AWB.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "School Boy Crush",
+      "artist": "Average White Band",
+      "has_synced": false,
+      "path": "select/09_School_Boy_Crush_Average_White_Band.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "07. School Boy",
+      "artist": "Big Mama Thornton",
+      "has_synced": true,
+      "path": "select/10_07._School_Boy_Big_Mama_Thornton.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "School Boy Heart (Live)",
+      "artist": "Jimmy Buffett",
+      "has_synced": false,
+      "path": "select/11_School_Boy_Heart_(Live)_Jimmy_Buffett.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "School Boy Heart (Album Version)",
+      "artist": "Jimmy Buffett",
+      "has_synced": true,
+      "path": "select/12_School_Boy_Heart_(Album_Version)_Jimmy_Buffett.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "high school boy",
+      "artist": "Regina Song",
+      "has_synced": true,
+      "path": "select/13_high_school_boy_Regina_Song.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "School Boy",
+      "artist": "ピーナッツくん, もちひよこ",
+      "has_synced": false,
+      "path": "select/pl_01_School_Boy_ピーナッツくん,_もちひよこ.txt"
+    }
+  ]
+}
